@@ -35,8 +35,9 @@ st.header('Country Data')
 st.write(user_data)
 
 life_expectancy = xgb_reg.predict(user_data[selected_features].values)
+rounded_life_expectancy = round(life_expectancy[0])
 st.subheader('Country Life Expectancy')
-st.write(life_expectancy[0])  # Display the predicted life expectancy
+st.write(rounded_life_expectancy)  # Display the predicted life expectancy
 
 country_label = int(round(life_expectancy[0]))
 country = le_country.inverse_transform([country_label])
