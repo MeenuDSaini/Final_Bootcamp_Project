@@ -10,7 +10,8 @@ xgb_reg = pickle.load(open('xgb_reg.pkl', 'rb'))
 le_country = pickle.load(open('le_country.pkl', 'rb'))
 
 
-st.title('Life Expectancy and Country Predictor')
+# Set the title with Markdown for font size and color
+st.markdown("<h1 style='font-size: 40px; color: blue;'>Life Expectancy and Country Predictor</h1>", unsafe_allow_html=True)
 st.sidebar.header('Country Data')
 image = Image.open('capture.jpg')
 st.image(image, width=800)
@@ -36,10 +37,11 @@ st.write(user_data)
 
 life_expectancy = xgb_reg.predict(user_data[selected_features].values)
 rounded_life_expectancy = round(life_expectancy[0])
-st.subheader('Country Life Expectancy')
-st.write(rounded_life_expectancy)  # Display the predicted life expectancy
+st.subheader('Life Expectancy')
+st.write(f"<div style='font-size: 24px; color: red;'>{rounded_life_expectancy}</div>", unsafe_allow_html=True)  # Display the predicted life expectancy
 
 country_label = int(round(life_expectancy[0]))
 country = le_country.inverse_transform([country_label])
 st.subheader('Country')
-st.write(country[0]) # Display the predicted country
+# Set the font size using CSS style
+st.write(f"<div style='font-size: 24px; color: red;'>{country[0]}</div>", unsafe_allow_html=True) # Display the predicted country
