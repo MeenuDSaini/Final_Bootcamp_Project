@@ -6,15 +6,15 @@
 **Objective**: 
 1. Examine global life expectancy trends.
 2. Identify key factors influencing life expectancy.
-3. Conduct correlation analysis to identify relationships with key determinants (e.g., GDP, education, immunization etc.) using statistical tool - Hypothesis testing, and SQL.
-4. Visualize trends and disparities across countries through an interactive PowerBI dashboard.
-5. Utilize advanced statistical and machine learning techniques to build models predicting life expectancy with Country and showcase the predictions on a Streamlit App.
+3. Conduct correlation analysis to identify relationships with key determinants (e.g., GDP, education, immunization etc.) using statistical tool - **Hypothesis testing**, and **SQL**.
+4. Visualize trends and disparities across countries through an interactive **PowerBI dashboard**.
+5. Utilize advanced statistical and machine learning techniques to build models predicting life expectancy with Country and showcase the predictions on a **Streamlit App**.
 
 **Target Audience**:
-1. Policymakers: Contribute valuable insights to improving healthcare infrastructure, education systems and socio-economic conditions.
-2. Data professionals: Analyze health and societal issues.
-3. Wider community members: Understand and address global health challenges.
-4. harmaceutical companies Gain insights into healthcare trends and opportunities.
+1. **Policymakers**: Contribute valuable insights to improving healthcare infrastructure, education systems and socio-economic conditions.
+2. **Data professionals**: Analyze health and societal issues.
+3. **Wider community members**: Understand and address global health challenges.
+4. **Pharmaceutical companies**: Gain insights into healthcare trends and opportunities.
 
 **Dataset overview**:
 1. Dataset: Life Expectancy dataset 'https://www.kaggle.com/datasets/mryasirturi/life-expentancy-dataset' 
