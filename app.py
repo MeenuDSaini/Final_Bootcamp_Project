@@ -44,4 +44,4 @@ country_label = int(round(life_expectancy[0]))
 country = le_country.inverse_transform([country_label])
 st.subheader('Country')
 # Set the font size using CSS style
-st.write(f"<div style='font-size: 24px; color: red;'>{country[0]}</div>", unsafe_allow_html=True) # Display the predicted country
+st.write(f"<div style='font-size: 24px; color: red;'>{country[0]}</div>", unsafe_allow_html=True) # Display the predicted country 
