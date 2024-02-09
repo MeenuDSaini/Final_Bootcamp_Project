@@ -59,6 +59,7 @@ Income Composition of Resources: Decode the composite index reflecting income di
 Schooling: Measure the gift of knowledge with data on average years of schooling.
          
 **Tools used for this project**:
+
 **API**: Utilized to fetch and integrate external data, specifically the **"life-expectancy-dataset" from Kaggle**, into the project.
 
 **Hypotheses Testing**: Employed for statistical analysis to validate assumptions and draw meaningful conclusions on the following:
@@ -73,6 +74,7 @@ Schooling: Measure the gift of knowledge with data on average years of schooling
                              the **XGBoost Regressor model** was determined as the best choice for predicting life expectancy in respective countries.
 
 **Streamlit App**: Developed for creating an interactive web application namely **Life Expectancy and Country Predictor**, enhancing the user interface and experience.
+
 ---
 ## Conclusion:
 Developed nations have higher life expectancies because they invest more in their economies, health services, and education. These countries also do a better job of vaccinating people, which leads to fewer diseases like measles and HIV/AIDS. This results in lower rates of infant, child, and adult deaths.
