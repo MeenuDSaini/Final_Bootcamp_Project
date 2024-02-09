@@ -24,15 +24,15 @@ To analyze factors influencing life expectancy, providing insights into public h
 3. Time period:  2000-2015
 4. Features in five categories:
       1. **Socio Economic factors** like GDP, BMI, Schooling, Alcohol, Population,Total Expenditure and Percentage Expenditure and Income composition of Resources etc.
-         # These features give information regarding economic status, social conditions and education system of different countries
+          **These features give information regarding economic status, social conditions and education system of different countries.**
       2. **Immunization Coverage**: Hepatitis B, Polio and Diphtheria
-         # These features give information of effectiveness of immunization programs of countries
+          **These features give information of effectiveness of immunization programs of countries**
       3. **Disease Prevalence**: HIV/ AIDS and Measles
-         # These features tells us about prevalence of these diseases, that are still concern in many countries and how effective are the disease control programs of different countries.
+         **These features tells us about prevalence of these diseases, that are still concern in many countries and how effective are the disease control programs of different countries.**
       4. **Malnutrition**: Thinness 1-19 Years and Thinness 5-9 Years
-         # These features gives information about prevailing malnutrition conditions specially in children of countries.
+         **These features gives information about prevailing malnutrition conditions specially in children of countries.**
       5. **Mortality status**: Adult mortality, infants deaths and under-five deaths
-         # Adult mortality tells us about effectiveness of overall heath programs, infant deaths and under-five deaths tells bout the effectiveness of immunization programs of different countries.
+         **Adult mortality tells us about effectiveness of overall heath programs, infant deaths and under-five deaths tells bout the effectiveness of immunization programs of different countries.**
          
 Here is the complete detail of dataset:
 Country: Explore the global tapestry with data from diverse nations.
@@ -72,7 +72,7 @@ Schooling: Measure the gift of knowledge with data on average years of schooling
                              The accuracy of three machine learning models, namely **Linear Regression, Random Forest Regressor, and XGBoost Regressor**, was assessed. Based on the accuracy score, 
                              the **XGBoost Regressor model** was determined as the best choice for predicting life expectancy in respective countries.
 
-**Streamlit App**: Developed for creating an interactive web application - **Life Expectancy and Country Predictor**, enhancing the user interface and experience.
+**Streamlit App**: Developed for creating an interactive web application namely **Life Expectancy and Country Predictor**, enhancing the user interface and experience.
 ---
 ## Conclusion:
 Developed nations have higher life expectancies because they invest more in their economies, health services, and education. These countries also do a better job of vaccinating people, which leads to fewer diseases like measles and HIV/AIDS. This results in lower rates of infant, child, and adult deaths.
