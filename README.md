@@ -84,8 +84,9 @@ The findings suggest that developing countries need to improve their vaccination
 To make a positive change, it's essential for governments, health agencies, and international groups to work together. Pharmaceutical companies can also contribute by developing affordable vaccines and medicines for diseases affecting these regions. This not only improves people's health but also creates business opportunities that benefit both companies and communities.
 
 In short, by focusing on better healthcare, more vaccinations, and addressing malnutrition, we can work towards closing the health gap between richer and poorer nations, creating a fairer and healthier world for everyone.
+
 ---
-**Acknowlegement**:
+## Acknowlegement:
 I would like to express my heartfelt gratitude to my mentor, **Sabina Firtala**, whose guidance and wealth of knowledge have been invaluable throughout my journey. Her mentorship has played a pivotal role in shaping my understanding and skills.
 
 I extend my sincere appreciation to the YouTubers whose insightful and educational tutorials have been a constant source of inspiration and learning. Their dedication to sharing knowledge has significantly enriched my understanding of the subject matter.
