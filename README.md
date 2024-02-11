@@ -10,7 +10,7 @@ To analyze factors influencing life expectancy, providing insights into public h
 2. Identify key factors influencing life expectancy.
 3. Conduct correlation analysis to identify relationships with key determinants (e.g., GDP, education, immunization etc.) using statistical tool - **Hypothesis testing**, and **SQL**.
 4. Visualize trends and disparities across countries through an interactive **PowerBI dashboard**.
-5. Utilize advanced statistical and machine learning techniques to build models predicting life expectancy with Country and showcase the predictions on a **Streamlit App**.
+5. Utilize advanced statistical and machine learning techniques to build models predicting life expectancy with Country and showcase the predictions on a **Streamlit App- Life Expectancy and Country Predictor**.
 
 **Target Audience**:
 1. **Policymakers**: Contribute valuable insights to improving healthcare infrastructure, education systems and socio-economic conditions.
