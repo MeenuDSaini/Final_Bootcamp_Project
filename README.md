@@ -32,7 +32,7 @@ To analyze factors influencing life expectancy, providing insights into public h
       4. **Malnutrition**: Thinness 1-19 Years and Thinness 5-9 Years
          **These features gives information about prevailing malnutrition conditions specially in children of countries.**
       5. **Mortality status**: Adult mortality, infants deaths and under-five deaths
-         **Adult mortality tells us about effectiveness of overall heath programs, infant deaths and under-five deaths tells bout the effectiveness of immunization programs of different countries.**
+         **Adult mortality tells us about effectiveness of overall health programs, infant deaths and under-five deaths tells about the effectiveness of immunization programs of different countries.**
          
 Here is the complete detail of dataset:
 Country: Explore the global tapestry with data from diverse nations.
